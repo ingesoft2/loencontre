@@ -18,6 +18,7 @@ public class LoEncontreNats2 {
         // TODO code application logic here
         System.out.println("HOLA A TODOS");
         System.out.println("Alvaro");
+        System.out.println("Alvaro2");
     }
     
 }
